@@ -24,7 +24,7 @@ from transformers import AutoConfig, AutoModelForCausalLM, AutoTokenizer, BitsAn
 os.environ["CUDA_VISIBLE_DEVICES"] = "0,1"
 
 from huggingface_hub import login
-login(token="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")
+login(token="HF TOKEN")
 
 model = "meta-llama/Llama-2-7b-chat-hf"
 MODEL_NAME = model
