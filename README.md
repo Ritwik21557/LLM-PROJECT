@@ -16,8 +16,9 @@ This repository contains the implementation of a mental health chatbot, fine-tun
 - **`trained-model.zip`**: A zip file containing the fine-tuned LLaMA 2 model for deployment.  
 
 ## Screenshots  
- 
-[Chat Interface 1](Images/interface_english.png)  [Chat Interface 2](Images/interface_english_2.png)  
+### Chat Interface
+<img src="Images/interface_english.png" alt="Chat Interface 1" width="400px"> 
+<img src="Images/interface_english_2.png" alt="Chat Interface 2" width="400px">   
 
 ## Setup Instructions  
 
@@ -32,7 +33,10 @@ Test the chatbot locally by running the inference notebook `llm-project-inferenc
 
 ## Evaluation Results  
 
-The fine-tuned model was evaluated on metrics commonly used for natural language understanding tasks. Below are the scores:  
-[Results For English](Images/results_english.png)  [Results For Hindi](Images/results_hindi.png)  
+The fine-tuned model was evaluated on metrics commonly used for natural language understanding tasks. Below are the scores:
 
+### Results For English Conversation
+<img src="Images/results_english.png" alt="Chat Result 1" width="400px"> 
 
+### Results For Hindi Conversation
+<img src="Images/results_hindi.png" alt="Chat Result 2" width="400px">   
