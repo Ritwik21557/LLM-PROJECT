@@ -37,9 +37,9 @@ The fine-tuned model was evaluated on metrics commonly used for natural language
 ### Results For English Conversation
 <p align="center"> 
   <img src="Images/results_english.png" alt="Chat Result 1" width="400px"> 
-<\p>
+</p>
 
 ### Results For Hindi Conversation
 <p align="center">
   <img src="Images/results_hindi.png" alt="Chat Result 2" width="400px">   
-<\p>
+</p>
