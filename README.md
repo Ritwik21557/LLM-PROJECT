@@ -17,8 +17,7 @@ This repository contains the implementation of a mental health chatbot, fine-tun
 
 ## Screenshots  
  
-![Chat Interface 1](Images/interface_english.png)  
-![Chat Interface 2](Images/interface_english_2.png)  
+[Chat Interface 1](Images/interface_english.png)  [Chat Interface 2](Images/interface_english_2.png)  
 
 ## Setup Instructions  
 
@@ -34,7 +33,6 @@ Test the chatbot locally by running the inference notebook `llm-project-inferenc
 ## Evaluation Results  
 
 The fine-tuned model was evaluated on metrics commonly used for natural language understanding tasks. Below are the scores:  
-![Results For English](Images/results_english.png)  
-![Results For Hindi](Images/results_hindi.png)  
+[Results For English](Images/results_english.png)  [Results For Hindi](Images/results_hindi.png)  
 
 
