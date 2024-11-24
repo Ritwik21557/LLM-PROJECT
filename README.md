@@ -35,7 +35,11 @@ Test the chatbot locally by running the inference notebook `llm-project-inferenc
 The fine-tuned model was evaluated on metrics commonly used for natural language understanding tasks. Below are the scores:
 
 ### Results For English Conversation
-<img src="Images/results_english.png" alt="Chat Result 1" width="400px"> 
+<p align="center"> 
+  <img src="Images/results_english.png" alt="Chat Result 1" width="400px"> 
+<\p>
 
 ### Results For Hindi Conversation
-<img src="Images/results_hindi.png" alt="Chat Result 2" width="400px">   
+<p align="center">
+  <img src="Images/results_hindi.png" alt="Chat Result 2" width="400px">   
+<\p>
