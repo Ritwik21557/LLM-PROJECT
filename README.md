@@ -17,8 +17,7 @@ This repository contains the implementation of a mental health chatbot, fine-tun
 
 ## Screenshots  
 ### Chat Interface
-<img src="Images/interface_english.png" alt="Chat Interface 1" width="400px"> 
-<img src="Images/interface_english_2.png" alt="Chat Interface 2" width="400px">   
+<img src="Images/interface_english.png" alt="Chat Interface 1" width="400px">  <img src="Images/interface_english_2.png" alt="Chat Interface 2" width="400px">   
 
 ## Setup Instructions  
 
